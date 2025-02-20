@@ -1,6 +1,18 @@
-RESOLUSI BELAJAR PYTHON:
-1) Konsisteen latihan setiap hari minimal 2 jam
-2) Membuat 1 Code-Program setiap 2 hari sekali (3 Code-Program seminggu)
-3) Buat Rencana Belajarnya (Materi, Jadwal, Logbook dan Sumber Belajar) 
-4) Evaluasi Pencapaian 
-5) Temukan Mentor 
+PYTHON LEARNING RESOLUTION:
+1) Consistent practice every day for at least 2 hours
+2) Create 1 Code-Program every 2 days (3 Code-Programs a week)
+3) Create a Learning Plan (Materials, Schedule, Logbook and Learning Resources)
+4) Evaluate Achievements
+5) Find a Mentor
+
+PYTHON MATERIALS 1:
+1) Introduction to Python and computer programming
+2) Data types, variables, basic input-output operations, basic operators
+3) Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operations
+4) Functions, tuples, dictionaries, and data processing
+
+PYTHON MATERIALS 2:
+5) Modules, Packages and PIP
+6) Strings, String and List Methods, Exceptions
+7) Object-Oriented Programming
+8) Miscellaneous : Python Library
